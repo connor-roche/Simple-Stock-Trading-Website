@@ -14,4 +14,4 @@ I had to implement a website via which users can "buy" and "sell" stocks. The we
 
 - Show a complete history of the user's actions.
 
-- Allow the user to add virtual cash to their account.
+- Allow the user to add virtual cash to their account. 
